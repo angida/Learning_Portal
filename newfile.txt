@@ -1,0 +1,3 @@
+After editing the files we will get a notification or that blue tag over that git icon on the left, and when clicking that we will see the file what we have edited. It also shows a ‘U’ symbol over the end of the file [marked in the above image] which means that we are doing some changes and git has no track of those. So in order to make the git aware of our changes we do to the local repo, press the ‘+’ symbol nearer to that ‘U’ symbol.
+
+Step-6 Staged Changes
