@@ -1,0 +1,1 @@
+And now you have your first file open on the VS code. Feel free to type something there. Type your name or something. Be cheered up! It’s your first project
